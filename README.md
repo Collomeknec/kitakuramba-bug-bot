@@ -9,7 +9,7 @@
 
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
-### 1. <a href="https://github.com/Collomeknec/kitakuramba/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Kitakuramba" width="70"></a>
+### 1. <a href="https://github.com/Collomeknec/kitakuramba-bug-bot/fork"><img src="https://img.shields.io/badge/FORK-blue" alt="Click Here to fork Kitakuramba" width="70"></a>
 ### 2. <a href="https://replit.com/@davidcyrilx2005/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
 ### 3. <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
 ### 4. <a href='https://replit.com/github/Deeceexxx/Venom-2' target="_blank"><img alt='Deploy On Replit' src='https://img.shields.io/badge/-Deploy On Replit-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
