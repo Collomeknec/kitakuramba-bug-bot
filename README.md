@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://ibb.co/6Bs6Tjm"><img src="https://i.ibb.co/DpK3v0t/4d2079fa319de6bb5b922c4e8836b23a.jpg" alt="4d2079fa319de6bb5b922c4e8836b23a" border="0"></a> 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____KITAKURAMBA_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+COLLO+COLLOME;RELEASE+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____KITAKURAMBA_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+COLLOME;RELEASE+DATE+21%2F6%2F2024." alt="Typing SVG" /></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
