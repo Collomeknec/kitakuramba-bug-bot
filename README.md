@@ -14,7 +14,7 @@
 ### 3. <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
 ### 4. <a href='https://replit.com/github/Deeceexxx/Venom-2' target="_blank"><img alt='Deploy On Replit' src='https://img.shields.io/badge/-Deploy On Replit-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 ## Watch Tutorial videos.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/4LuZuByZNwI?si=ZTUB9awhKPD9iIVo)
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ffur7K3PqkM?si=J1dsdRa2qgAznUaG)
 
 
 </br>
